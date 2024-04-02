@@ -16,7 +16,7 @@
 </div>
 
 ## Status do GitHub
-[![Leech16 GitHub stats](https://github-readme-stats.vercel.app/api?username=Leech16)](https://github.com/leech16/github-readme-stats)
+[![Leech16 GitHub stats](https://github-readme-stats.vercel.app/api?username=Leech16)]()
   
 ## 🌐Entre em contato
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-nascimento-476855249/) 
