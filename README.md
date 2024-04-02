@@ -1,5 +1,5 @@
 # Olá eu sou Diogo!
-◾loremlomenmasdfjhsdhfkjshfdkhfkshdfjkshjdhfkhsdkfhskfhkdshfkshfksdhfksdhfkhdskfhdskfjhdskjfhs 
+Atualmente, estou aprimorando minhas habilidades como desenvolvedor Full-stack.
 
 ## 🔧 Linguagens e Ferramentas
 <h3>🔽Linguagens</h3>
@@ -16,7 +16,7 @@
 </div>
 
 ## Status do GitHub
-[![Leech16 GitHub stats](https://github-readme-stats.vercel.app/api?username=Leech16)]()
+[![Leech16 GitHub stats](https://github-readme-stats.vercel.app/api?username=Leech16&theme=tokyonight)]()
   
 ## 🌐Entre em contato
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-nascimento-476855249/) 
